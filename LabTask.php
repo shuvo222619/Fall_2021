@@ -40,11 +40,11 @@
             echo "Email must contain a '@' and '.'";
         }
 
-        for($i=0;$i<strlen($username);$i++)
+        for($i=0;$i<strlen($lastname);$i++)
         {
-            if(!((ord($username[$i]) >= 97 && ord($username[$i]) <= 122)) && !((ord($username[$i]) >= 65 && ord($username[$i]) <= 90))  && !((ord($username[$i]) >= 48 && ord($username[$i]) <= 57)))
+            if(!((ord($lastname[$i]) >= 97 && ord($lastname[$i]) <= 122)) && !((ord($lastname[$i]) >= 65 && ord($lastname[$i]) <= 90))  && !((ord($lastname[$i]) >= 48 && ord($lastname[$i]) <= 57)))
             {
-                echo 'Username only alphabetic';break;
+                echo 'Lastname only alphabetic';break;
             }
         }
         
