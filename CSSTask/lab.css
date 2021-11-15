@@ -1,0 +1,77 @@
+.header {
+   
+    background-color: lightblue;
+    padding-top: 80px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    }
+    
+#para2
+{
+    color:rgb(6, 7, 8);
+    background-color: rgb(56, 163, 212);
+    
+}
+#para3
+{
+    color:rgb(255, 255, 255);
+    background-color: rgb(142, 23, 197);
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+    
+}
+.left
+{
+  
+    color:cadetblue;
+}
+#reg {
+    border-left: 6px solid rgb(89, 91, 236);
+    background-color: rgb(137, 166, 219);
+    }
+    
+
+.card
+{
+    border-style: solid;
+    border-color: rgb(225, 114, 235);
+    background-color: rgba(188, 215, 228, 0.233);;
+     margin: 80px;
+
+}
+.card2
+{
+border-style: solid;
+
+background-color: rgb(247, 209, 108);
+padding-top: 40px;
+padding-right: 30px;
+padding-bottom: 30px;
+padding-left: 30px;
+
+}
+.card3
+{
+border-style: solid;
+border-color: rgb(225, 114, 235);
+background-color: rgba(188, 215, 228, 0.233);;
+margin: 10px;
+
+}
+.button
+{
+    width: 50px;
+    background-color: rgb(57, 57, 187);
+    padding: 5px;
+    margin: 5px;
+}
+body
+{
+    
+       
+        background-color: #9aabb1;
+      
+}
